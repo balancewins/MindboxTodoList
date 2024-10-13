@@ -1,6 +1,7 @@
 # MindboxTodoList
 Тестовое задание для Mindbox
 # node -v 20.16
+# npm i && npm run start
 
 # Getting Started with Create React App
 
