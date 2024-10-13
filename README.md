@@ -1,5 +1,5 @@
 # MindboxTodoList
-Тестовое задание для Mindbox
+Тестовое задание для Mindbox. Стек: React, TypeScript, MobX State Tree, Styled Components
 # node -v 20.16
 # npm i && npm run start
 
