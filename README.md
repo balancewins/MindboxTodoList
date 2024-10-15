@@ -2,6 +2,7 @@
 Тестовое задание для Mindbox. Стек: React, TypeScript, MobX State Tree, Styled Components
 # node -v 20.16
 # npm i && npm run start
+# https://mindbox-todo-list.vercel.app/
 
 # Getting Started with Create React App
 
