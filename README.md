@@ -3,6 +3,7 @@
 # node -v 20.16
 # npm i && npm run start
 # https://mindbox-todo-list.vercel.app/
+ТЗ: https://docs.google.com/document/d/15QkApDkQqtzLSVW7Fpyluwj-BvUIHFXBjvvFCe77Aaw/edit#heading=h.zavj7sd1thwb
 
 # Getting Started with Create React App
 
